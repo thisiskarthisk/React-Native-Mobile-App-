@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tms_mobile",
-    "slug": "tms_mobile",
+    "name": "instagram-clone",
+    "slug": "instagram-clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.karthiyin_sk.tms_mobile"
+      "package": "com.karthiyin_sk.instagram-clone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
